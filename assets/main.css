@@ -1,0 +1,76 @@
+*{
+    background-color:rgb(20, 20, 20) ;
+    font: Roboto;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-image:url("Title-Image.png");
+    image-rendering: ;
+    text-align: center;
+    height: 100vh;
+    font-family: Roboto;
+}
+
+nav p{
+    color: white;
+}
+
+nav table{
+ border-spacing: 20px;
+}
+
+#rightNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    top: 10px;
+}
+
+#rightNav img{
+    margin: 5px;
+}
+
+#title{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    color: white;
+    
+}
+
+nav div{
+    background: inherit;
+}
+
+div table{
+    background: inherit;
+}
+
+table td{
+    background: inherit;
+}
+
+.displays{
+    color: white;
+    margin: 20px;
+}
+
+.des{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#top{
+    color: white;
+}
+
+.foot{
+    margin: 5px;
+}
+
+
