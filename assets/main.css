@@ -8,7 +8,6 @@ nav{
     flex-direction: column;
     color: white;
     background-image:url("Title-Image.png");
-    image-rendering: ;
     text-align: center;
     height: 100vh;
     font-family: Roboto;
@@ -70,7 +69,7 @@ table td{
 }
 
 .foot{
-    margin: 5px;
+    margin: 10px;
 }
 
 
